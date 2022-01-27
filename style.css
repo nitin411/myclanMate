@@ -1,0 +1,23 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10vh;
+}
+
+.center2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  width: 20vmax;
+}
+
+.heading {
+
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 120;
+  font-size: 4vmax;
+  color: #FFFFFF;
+}
